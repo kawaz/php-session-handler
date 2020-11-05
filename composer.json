@@ -1,0 +1,11 @@
+{
+    "name": "kawaz/session-handler",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Yoshiaki Kawazu",
+            "email": "kawazzz@gmail.com"
+        }
+    ],
+    "require": {}
+}
